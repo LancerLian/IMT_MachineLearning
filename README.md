@@ -1,2 +1,2 @@
 # IMT_MachineLearning
-Book reading website for XMU IMT Lab
+Machine learning issues book reading website for XMU IMT Lab
